@@ -1,0 +1,11 @@
+CharDistribution.o: CharDistribution.cpp /usr/include/stdc-predef.h \
+ CharDistribution.h nscore.h tables/JISFreq.tab tables/Big5Freq.tab \
+ tables/EUCKRFreq.tab tables/EUCTWFreq.tab tables/GB2312Freq.tab
+/usr/include/stdc-predef.h:
+CharDistribution.h:
+nscore.h:
+tables/JISFreq.tab:
+tables/Big5Freq.tab:
+tables/EUCKRFreq.tab:
+tables/EUCTWFreq.tab:
+tables/GB2312Freq.tab:

@@ -1,0 +1,367 @@
+# German translation of Leafpad
+# Copyright (C) 2004 Free Software Foundation, Inc.
+# This file is distributed under the same license as the Leafpad package.
+# Sebastian Stach <sebsta@t-online.de>, 2004.
+# Ruediger Arp <ruediger@gmx.net>, 2004.
+# Mario Blättermann <mario.blaettermann@t-online.de>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: leafpad 0.8.16\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-01 03:51+0900\n"
+"PO-Revision-Date: 2009-06-28 13:12+0100\n"
+"Last-Translator: Mario Blättermann <mario.blaettermann@t-online.de>\n"
+"Language-Team: German <translation-team-de@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/menu.c:37
+msgid "/_File"
+msgstr "/_Datei"
+
+#: ../src/menu.c:39
+msgid "/File/_New"
+msgstr "/Datei/_Neu"
+
+#: ../src/menu.c:41
+msgid "/File/_Open..."
+msgstr "/Datei/Ö_ffnen"
+
+#: ../src/menu.c:43
+msgid "/File/_Save"
+msgstr "/Datei/_Speichern"
+
+#: ../src/menu.c:45
+msgid "/File/Save _As..."
+msgstr "/Datei/Speichern _unter"
+
+#: ../src/menu.c:49
+#, fuzzy
+msgid "/File/Sta_tistics..."
+msgstr "/Datei/Speichern _unter"
+
+#: ../src/menu.c:53
+msgid "/File/Print Pre_view"
+msgstr "/Datei/Druck_vorschau"
+
+#: ../src/menu.c:56
+msgid "/File/_Print..."
+msgstr "/Datei/_Drucken …"
+
+#: ../src/menu.c:63
+msgid "/File/_Quit"
+msgstr "/Datei/_Beenden"
+
+#: ../src/menu.c:65
+msgid "/_Edit"
+msgstr "/_Bearbeiten"
+
+#: ../src/menu.c:67
+msgid "/Edit/_Undo"
+msgstr "/Bearbeiten/_Rückgängig"
+
+#: ../src/menu.c:69
+msgid "/Edit/_Redo"
+msgstr "/Bearbeiten/_Wiederholen"
+
+#: ../src/menu.c:73
+msgid "/Edit/Cu_t"
+msgstr "/Bearbeiten/_Ausschneiden"
+
+#: ../src/menu.c:75
+msgid "/Edit/_Copy"
+msgstr "/Bearbeiten/_Kopieren"
+
+#: ../src/menu.c:77
+msgid "/Edit/_Paste"
+msgstr "/Bearbeiten/E_infügen"
+
+#: ../src/menu.c:79
+msgid "/Edit/_Delete"
+msgstr "/Bearbeiten/_Löschen"
+
+#: ../src/menu.c:83
+msgid "/Edit/Select _All"
+msgstr "/Bearbeiten/_Alles markieren"
+
+#: ../src/menu.c:85
+#, fuzzy
+msgid "/_View"
+msgstr "/_Datei"
+
+#: ../src/menu.c:87
+msgid "/View/_Fullscreen"
+msgstr ""
+
+#: ../src/menu.c:89
+msgid "/_Search"
+msgstr "/_Suchen"
+
+#: ../src/menu.c:91
+msgid "/Search/_Find..."
+msgstr "/Suchen/_Suchen …"
+
+#: ../src/menu.c:93
+msgid "/Search/Find _Next"
+msgstr "/Suchen/_Weitersuchen"
+
+#: ../src/menu.c:95
+msgid "/Search/Find _Previous"
+msgstr "/Suchen/_Rückwärts suchen"
+
+#: ../src/menu.c:97
+msgid "/Search/_Replace..."
+msgstr "/Suchen/_Ersetzen …"
+
+#: ../src/menu.c:101
+msgid "/Search/_Jump To..."
+msgstr "/Suchen/_Gehe zu …"
+
+#: ../src/menu.c:103
+msgid "/_Options"
+msgstr "/_Optionen"
+
+#: ../src/menu.c:105
+msgid "/Options/_Font..."
+msgstr "/Optionen/_Schriftart …"
+
+#: ../src/menu.c:107
+msgid "/Options/_Word Wrap"
+msgstr "/Optionen/_Zeilenumbruch"
+
+#: ../src/menu.c:109
+msgid "/Options/_Line Numbers"
+msgstr "/Optionen/Zeilen_nummern"
+
+#: ../src/menu.c:113
+msgid "/Options/_Auto Indent"
+msgstr "/Optionen/_Auto-Einzug"
+
+#: ../src/menu.c:115
+msgid "/_Help"
+msgstr "/_Hilfe"
+
+#: ../src/menu.c:117
+msgid "/Help/_About"
+msgstr "/Hilfe/_Info"
+
+#: ../src/callback.c:141
+msgid "<b>Statistics</b>"
+msgstr ""
+
+#: ../src/callback.c:363
+msgid "GTK+ based simple text editor"
+msgstr "Einfacher auf GTK+ basierender Texteditor"
+
+#: ../src/callback.c:368
+msgid "translator-credits"
+msgstr ""
+"Sebastian Stach <sebsta@t-online.de>\n"
+"Ruediger Arp <ruediger@gmx.net>\n"
+"Mario Blättermann <mariobl@gnome.org>"
+
+#: ../src/view.c:62
+#, c-format
+msgid "Save changes to '%s'?"
+msgstr "Änderungen an »%s« speichern?"
+
+#: ../src/font.c:44
+msgid "Font"
+msgstr "Schriftart"
+
+#: ../src/selector.c:103
+#, c-format
+msgid "Current Locale (%s)"
+msgstr "Derzeitige Standorteinstellung (%s)"
+
+#: ../src/selector.c:142
+msgid "Other Codeset"
+msgstr "Anderer Zeichensatz"
+
+#: ../src/selector.c:182
+msgid "Code_set:"
+msgstr "_Zeichensatz:"
+
+#: ../src/selector.c:204
+#, c-format
+msgid "'%s' is not supported"
+msgstr "»%s« wird nicht unterstützt"
+
+#: ../src/selector.c:265
+msgid "Auto-Detect"
+msgstr "Automatisch erkennen"
+
+#: ../src/selector.c:317
+msgid "Open"
+msgstr "Öffnen"
+
+#: ../src/selector.c:317
+msgid "Save As"
+msgstr "Speichern unter"
+
+#: ../src/selector.c:346
+msgid "C_haracter Coding:"
+msgstr "Zeic_henkodierung: "
+
+#: ../src/selector.c:417
+#, c-format
+msgid "'%s' already exists. Overwrite?"
+msgstr "»%s« existiert bereits. Überschreiben?"
+
+#: ../src/file.c:62
+msgid "Untitled"
+msgstr "Unbenannt"
+
+#: ../src/file.c:231
+#, c-format
+msgid "Can't convert codeset to '%s'"
+msgstr "Der Zeichensatz kann nicht nach »%s« konvertiert werden"
+
+#: ../src/file.c:244
+msgid "Can't open file to write"
+msgstr "Die Datei kann nicht zum Schreiben geöffnet werden"
+
+#: ../src/file.c:249
+msgid "Can't write file"
+msgstr "Die Datei kann nicht geschrieben werden"
+
+#: ../src/file.c:302
+#, c-format
+msgid ""
+"<u>Totals count</u>\n"
+"Chars: %7d Words: %6d Lines: %5d\n"
+"\n"
+"<u>Selection</u>\n"
+"Chars: %7d Words: %6d Lines: %5d\n"
+msgstr ""
+
+#: ../src/search.c:143
+msgid "Search string not found"
+msgstr "Gesuchter Text wurde nicht gefunden"
+
+#: ../src/search.c:196
+msgid "Replace?"
+msgstr "Ersetzen?"
+
+#: ../src/search.c:263
+#, c-format
+msgid "%d strings replaced"
+msgstr "%d Mal gefunden und ersetzt"
+
+#: ../src/search.c:321
+msgid "Replace"
+msgstr "Ersetzen"
+
+#: ../src/search.c:328
+msgid "Find"
+msgstr "Suchen"
+
+#: ../src/search.c:341
+msgid "Fi_nd what:"
+msgstr "_Suchen nach: "
+
+#: ../src/search.c:387
+msgid "Re_place with:"
+msgstr "_Ersetzen durch: "
+
+#: ../src/search.c:404
+msgid "Replace _all at once"
+msgstr "_Alles ersetzen"
+
+#: ../src/search.c:416
+msgid "_Match case"
+msgstr "_Groß-/Kleinschreibung berücksichtigen"
+
+#: ../src/search.c:474
+msgid "Jump To"
+msgstr "Gehe zu"
+
+#: ../src/search.c:480
+msgid "_Jump"
+msgstr "_Gehe zu"
+
+#: ../src/search.c:487
+msgid "_Line number:"
+msgstr "Zeilen_nummer: "
+
+#: ../src/about.c:102
+msgid "Credits"
+msgstr "Mitwirkende"
+
+#: ../src/about.c:137
+msgid "Written by"
+msgstr "Programm von"
+
+#: ../src/about.c:140
+msgid "Documented by"
+msgstr "Dokumentation von"
+
+#: ../src/about.c:146
+msgid "Translated by"
+msgstr "Übersetzung von"
+
+#: ../src/about.c:197
+msgid "C_redits"
+msgstr "_Mitwirkende"
+
+#: ../src/about.c:199
+msgid "_Credits"
+msgstr "_Mitwirkende"
+
+#: ../src/about.c:209
+#, c-format
+msgid "About %s"
+msgstr "Info zu %s"
+
+#: ../src/gnomeprint.c:261
+msgid "Print"
+msgstr "Drucken"
+
+#: ../src/gnomeprint.c:291
+msgid "Print Preview"
+msgstr "Druckvorschau"
+
+#: ../data/leafpad.desktop.in.h:1
+msgid "Simple text editor"
+msgstr "Einfacher Texteditor"
+
+#, fuzzy
+#~ msgid "Can't convert codeset to current locale"
+#~ msgstr "Der Zeichensatz kann nicht nach '%s' konvertiert werden"
+
+#, fuzzy
+#~ msgid "Can't write temporary file"
+#~ msgstr "Die Datei kann nicht geschrieben werden"
+
+#~ msgid "Other Codeset (%s)"
+#~ msgstr "Anderer Zeichensatz (%s)"
+
+#~ msgid "Other Codeset..."
+#~ msgstr "Anderer Zeichensatz..."
+
+#, fuzzy
+#~ msgid "Unicode (UTF-8)"
+#~ msgstr "Unicode"
+
+#~ msgid "Western"
+#~ msgstr "Westlich"
+
+#~ msgid "Cyrillic"
+#~ msgstr "Kyrillisch"
+
+#~ msgid "Chinese Simplified"
+#~ msgstr "Chinesisch (vereinfacht)"
+
+#~ msgid "Chinese Traditional"
+#~ msgstr "Chinesisch (traditionell)"
+
+#~ msgid "Japanese"
+#~ msgstr "Japanisch"
+
+#~ msgid "Korean"
+#~ msgstr "Koreanisch"
+
+#~ msgid "Enter Codeset"
+#~ msgstr "Geben sie einen Zeichensatz ein"

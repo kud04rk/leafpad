@@ -1,0 +1,9 @@
+nsUTF8Prober.o: nsUTF8Prober.cpp /usr/include/stdc-predef.h \
+ nsUTF8Prober.h nsCharSetProber.h nscore.h nsCodingStateMachine.h \
+ nsPkgInt.h
+/usr/include/stdc-predef.h:
+nsUTF8Prober.h:
+nsCharSetProber.h:
+nscore.h:
+nsCodingStateMachine.h:
+nsPkgInt.h:

@@ -1,0 +1,10 @@
+nsEUCTWProber.o: nsEUCTWProber.cpp /usr/include/stdc-predef.h \
+ nsEUCTWProber.h nsCharSetProber.h nscore.h nsCodingStateMachine.h \
+ nsPkgInt.h CharDistribution.h
+/usr/include/stdc-predef.h:
+nsEUCTWProber.h:
+nsCharSetProber.h:
+nscore.h:
+nsCodingStateMachine.h:
+nsPkgInt.h:
+CharDistribution.h:

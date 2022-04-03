@@ -1,0 +1,4 @@
+JpCntx.o: JpCntx.cpp /usr/include/stdc-predef.h nscore.h JpCntx.h
+/usr/include/stdc-predef.h:
+nscore.h:
+JpCntx.h:

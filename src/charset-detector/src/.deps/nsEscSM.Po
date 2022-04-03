@@ -1,0 +1,6 @@
+nsEscSM.o: nsEscSM.cpp /usr/include/stdc-predef.h nsCodingStateMachine.h \
+ nsPkgInt.h nscore.h
+/usr/include/stdc-predef.h:
+nsCodingStateMachine.h:
+nsPkgInt.h:
+nscore.h:

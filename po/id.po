@@ -1,0 +1,323 @@
+# Indonesian translations for leafpad package.
+# Copyright (C) 2008 THE leafpad'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the leafpad package.
+# Andhika Padmawan <andhika.padmawan@gmail.com>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: leafpad 0.8.16\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-01 03:51+0900\n"
+"PO-Revision-Date: 2009-06-25 21:35+0700\n"
+"Last-Translator: Andhika Padmawan <andhika.padmawan@gmail.com>\n"
+"Language-Team: Indonesian <translation-team-id@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/menu.c:37
+msgid "/_File"
+msgstr "/_Berkas"
+
+#: ../src/menu.c:39
+msgid "/File/_New"
+msgstr "/Berkas/_Baru"
+
+#: ../src/menu.c:41
+msgid "/File/_Open..."
+msgstr "/Berkas/B_uka..."
+
+#: ../src/menu.c:43
+msgid "/File/_Save"
+msgstr "/Berkas/_Simpan"
+
+#: ../src/menu.c:45
+msgid "/File/Save _As..."
+msgstr "/Berkas/Simpan Se_bagai..."
+
+#: ../src/menu.c:49
+#, fuzzy
+msgid "/File/Sta_tistics..."
+msgstr "/Berkas/Simpan Se_bagai..."
+
+#: ../src/menu.c:53
+msgid "/File/Print Pre_view"
+msgstr "/Berkas/Pra_tayang Cetak"
+
+#: ../src/menu.c:56
+msgid "/File/_Print..."
+msgstr "/Berkas/_Cetak..."
+
+#: ../src/menu.c:63
+msgid "/File/_Quit"
+msgstr "/Berkas/_Keluar"
+
+#: ../src/menu.c:65
+msgid "/_Edit"
+msgstr "/_Sunting"
+
+#: ../src/menu.c:67
+msgid "/Edit/_Undo"
+msgstr "/Sunting/_Tak Jadi"
+
+#: ../src/menu.c:69
+msgid "/Edit/_Redo"
+msgstr "/Sunting/Jadi _Lagi"
+
+#: ../src/menu.c:73
+msgid "/Edit/Cu_t"
+msgstr "/Sunting/Po_tong"
+
+#: ../src/menu.c:75
+msgid "/Edit/_Copy"
+msgstr "/Sunting/_Salin"
+
+#: ../src/menu.c:77
+msgid "/Edit/_Paste"
+msgstr "/Sunting/_Rekat"
+
+#: ../src/menu.c:79
+msgid "/Edit/_Delete"
+msgstr "/Sunting/_Hapus"
+
+#: ../src/menu.c:83
+msgid "/Edit/Select _All"
+msgstr "/Sunting/_Pilih Semua"
+
+#: ../src/menu.c:85
+#, fuzzy
+msgid "/_View"
+msgstr "/_Berkas"
+
+#: ../src/menu.c:87
+msgid "/View/_Fullscreen"
+msgstr ""
+
+#: ../src/menu.c:89
+msgid "/_Search"
+msgstr "/_Telusur"
+
+#: ../src/menu.c:91
+msgid "/Search/_Find..."
+msgstr "/Telusur/_Cari..."
+
+#: ../src/menu.c:93
+msgid "/Search/Find _Next"
+msgstr "/Telusur/Cari Selan_jutnya"
+
+#: ../src/menu.c:95
+msgid "/Search/Find _Previous"
+msgstr "/Telusur/Cari _Sebelumnya"
+
+#: ../src/menu.c:97
+msgid "/Search/_Replace..."
+msgstr "/Telusur/_Ganti..."
+
+#: ../src/menu.c:101
+msgid "/Search/_Jump To..."
+msgstr "/Telusur/_Lompat Ke..."
+
+#: ../src/menu.c:103
+msgid "/_Options"
+msgstr "/_Opsi"
+
+#: ../src/menu.c:105
+msgid "/Options/_Font..."
+msgstr "/Opsi/_Fonta..."
+
+#: ../src/menu.c:107
+msgid "/Options/_Word Wrap"
+msgstr "/Opsi/_Pas Kata"
+
+#: ../src/menu.c:109
+msgid "/Options/_Line Numbers"
+msgstr "/Opsi/_Nomor Baris"
+
+#: ../src/menu.c:113
+msgid "/Options/_Auto Indent"
+msgstr "/Opsi/Inden _Otomatis"
+
+#: ../src/menu.c:115
+msgid "/_Help"
+msgstr "/B_antuan"
+
+#: ../src/menu.c:117
+msgid "/Help/_About"
+msgstr "/Bantuan/_Tentang"
+
+#: ../src/callback.c:141
+msgid "<b>Statistics</b>"
+msgstr ""
+
+#: ../src/callback.c:363
+msgid "GTK+ based simple text editor"
+msgstr "Penyunting teks sederhana berbasis GTK+"
+
+#: ../src/callback.c:368
+msgid "translator-credits"
+msgstr "Andhika Padmawan <andhika.padmawan@gmail.com>, 2008"
+
+#: ../src/view.c:62
+#, c-format
+msgid "Save changes to '%s'?"
+msgstr "Simpan perubahan ke '%s'?"
+
+#: ../src/font.c:44
+msgid "Font"
+msgstr "Fonta"
+
+#: ../src/selector.c:103
+#, c-format
+msgid "Current Locale (%s)"
+msgstr "Lokalisasi saat ini (%s)"
+
+#: ../src/selector.c:142
+msgid "Other Codeset"
+msgstr "Set Sandi Lain"
+
+#: ../src/selector.c:182
+msgid "Code_set:"
+msgstr "Set _sandi:"
+
+#: ../src/selector.c:204
+#, c-format
+msgid "'%s' is not supported"
+msgstr "'%s' tak didukung"
+
+#: ../src/selector.c:265
+msgid "Auto-Detect"
+msgstr "Deteksi Otomatis"
+
+#: ../src/selector.c:317
+msgid "Open"
+msgstr "Buka"
+
+#: ../src/selector.c:317
+msgid "Save As"
+msgstr "Simpan Sebagai"
+
+#: ../src/selector.c:346
+msgid "C_haracter Coding:"
+msgstr "Pen_yandian Karakter:"
+
+#: ../src/selector.c:417
+#, c-format
+msgid "'%s' already exists. Overwrite?"
+msgstr "'%s' telah ada. Timpa?"
+
+#: ../src/file.c:62
+msgid "Untitled"
+msgstr "Tak ada judul"
+
+#: ../src/file.c:231
+#, c-format
+msgid "Can't convert codeset to '%s'"
+msgstr "Tak dapat konversi set sandi ke '%s'"
+
+#: ../src/file.c:244
+msgid "Can't open file to write"
+msgstr "Tak dapat buka berkas untuk ditulis"
+
+#: ../src/file.c:249
+msgid "Can't write file"
+msgstr "Tak dapat menulis berkas"
+
+#: ../src/file.c:302
+#, c-format
+msgid ""
+"<u>Totals count</u>\n"
+"Chars: %7d Words: %6d Lines: %5d\n"
+"\n"
+"<u>Selection</u>\n"
+"Chars: %7d Words: %6d Lines: %5d\n"
+msgstr ""
+
+#: ../src/search.c:143
+msgid "Search string not found"
+msgstr "Telusur tali tak ditemukan"
+
+#: ../src/search.c:196
+msgid "Replace?"
+msgstr "Ganti?"
+
+#: ../src/search.c:263
+#, c-format
+msgid "%d strings replaced"
+msgstr "%d tali diganti!"
+
+#: ../src/search.c:321
+msgid "Replace"
+msgstr "Ganti"
+
+#: ../src/search.c:328
+msgid "Find"
+msgstr "Cari"
+
+#: ../src/search.c:341
+msgid "Fi_nd what:"
+msgstr "Ca_ri apa:"
+
+#: ../src/search.c:387
+msgid "Re_place with:"
+msgstr "Ga_nti dengan:"
+
+#: ../src/search.c:404
+msgid "Replace _all at once"
+msgstr "Ganti semu_a sekaligus"
+
+#: ../src/search.c:416
+msgid "_Match case"
+msgstr "_Cocokkan huruf"
+
+#: ../src/search.c:474
+msgid "Jump To"
+msgstr "Lompat Ke"
+
+#: ../src/search.c:480
+msgid "_Jump"
+msgstr "_Lompat"
+
+#: ../src/search.c:487
+msgid "_Line number:"
+msgstr "_Nomor baris:"
+
+#: ../src/about.c:102
+msgid "Credits"
+msgstr "Kredit"
+
+#: ../src/about.c:137
+msgid "Written by"
+msgstr "Ditulis oleh"
+
+#: ../src/about.c:140
+msgid "Documented by"
+msgstr "Didokumentasikan oleh"
+
+#: ../src/about.c:146
+msgid "Translated by"
+msgstr "Diterjemahkan oleh"
+
+#: ../src/about.c:197
+msgid "C_redits"
+msgstr "K_redit"
+
+#: ../src/about.c:199
+msgid "_Credits"
+msgstr "_Kredit"
+
+#: ../src/about.c:209
+#, c-format
+msgid "About %s"
+msgstr "Tentang %s"
+
+#: ../src/gnomeprint.c:261
+msgid "Print"
+msgstr "Cetak"
+
+#: ../src/gnomeprint.c:291
+msgid "Print Preview"
+msgstr "Pratayang Cetak"
+
+#: ../data/leafpad.desktop.in.h:1
+msgid "Simple text editor"
+msgstr "Penyunting teks sederhana"

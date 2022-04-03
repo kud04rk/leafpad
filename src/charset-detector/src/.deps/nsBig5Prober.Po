@@ -1,0 +1,10 @@
+nsBig5Prober.o: nsBig5Prober.cpp /usr/include/stdc-predef.h \
+ nsBig5Prober.h nsCharSetProber.h nscore.h nsCodingStateMachine.h \
+ nsPkgInt.h CharDistribution.h
+/usr/include/stdc-predef.h:
+nsBig5Prober.h:
+nsCharSetProber.h:
+nscore.h:
+nsCodingStateMachine.h:
+nsPkgInt.h:
+CharDistribution.h:

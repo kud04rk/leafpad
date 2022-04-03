@@ -1,0 +1,6 @@
+LangHebrewModel.o: LangHebrewModel.cpp /usr/include/stdc-predef.h \
+ nsSBCharSetProber.h nsCharSetProber.h nscore.h
+/usr/include/stdc-predef.h:
+nsSBCharSetProber.h:
+nsCharSetProber.h:
+nscore.h:

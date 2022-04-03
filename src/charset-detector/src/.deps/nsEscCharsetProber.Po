@@ -1,0 +1,10 @@
+nsEscCharsetProber.o: nsEscCharsetProber.cpp /usr/include/stdc-predef.h \
+ nsEscCharsetProber.h nsCharSetProber.h nscore.h nsCodingStateMachine.h \
+ nsPkgInt.h nsUniversalDetector.h
+/usr/include/stdc-predef.h:
+nsEscCharsetProber.h:
+nsCharSetProber.h:
+nscore.h:
+nsCodingStateMachine.h:
+nsPkgInt.h:
+nsUniversalDetector.h:

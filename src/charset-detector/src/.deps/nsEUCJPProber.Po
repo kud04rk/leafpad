@@ -1,0 +1,11 @@
+nsEUCJPProber.o: nsEUCJPProber.cpp /usr/include/stdc-predef.h \
+ nsEUCJPProber.h nsCharSetProber.h nscore.h nsCodingStateMachine.h \
+ nsPkgInt.h JpCntx.h CharDistribution.h
+/usr/include/stdc-predef.h:
+nsEUCJPProber.h:
+nsCharSetProber.h:
+nscore.h:
+nsCodingStateMachine.h:
+nsPkgInt.h:
+JpCntx.h:
+CharDistribution.h:

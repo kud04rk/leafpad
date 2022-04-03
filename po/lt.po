@@ -1,0 +1,349 @@
+# Lithuanian translation of leafpad.
+# Copyright (C) 2004 Free Software Foundation, Inc.
+# This file is distributed under the same license as the leafpad package.
+# Lech Jankovski <godgard@gmail.com>, 2004.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: leafpad 0.8.13\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-01 03:51+0900\n"
+"PO-Revision-Date: 2008-07-20 21:29-0400\n"
+"Last-Translator: Gintautas Miliauskas <gintas@akl.lt>\n"
+"Language-Team: Lithuanian <komp_lt@konferencijos.lt>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/menu.c:37
+msgid "/_File"
+msgstr "/_Failas"
+
+#: ../src/menu.c:39
+msgid "/File/_New"
+msgstr "/Failas/_Nauja"
+
+#: ../src/menu.c:41
+msgid "/File/_Open..."
+msgstr "/Failas/_Atidaryti..."
+
+#: ../src/menu.c:43
+msgid "/File/_Save"
+msgstr "/Failas/_Įrašyti"
+
+#: ../src/menu.c:45
+msgid "/File/Save _As..."
+msgstr "/Failas/Įrašyti kaip _kaip..."
+
+#: ../src/menu.c:49
+#, fuzzy
+msgid "/File/Sta_tistics..."
+msgstr "/Failas/Įrašyti kaip _kaip..."
+
+#: ../src/menu.c:53
+msgid "/File/Print Pre_view"
+msgstr "/Failas/Spaudinio _peržiūra"
+
+#: ../src/menu.c:56
+msgid "/File/_Print..."
+msgstr "/Failas/_Spausdinti"
+
+#: ../src/menu.c:63
+msgid "/File/_Quit"
+msgstr "/Failas/Iš_eiti"
+
+#: ../src/menu.c:65
+msgid "/_Edit"
+msgstr "/_Keisti"
+
+#: ../src/menu.c:67
+msgid "/Edit/_Undo"
+msgstr "/Keisti/_Atšaukti"
+
+#: ../src/menu.c:69
+msgid "/Edit/_Redo"
+msgstr "/Keisti/_Grąžinti"
+
+#: ../src/menu.c:73
+msgid "/Edit/Cu_t"
+msgstr "/Keisti/_Iškirpti"
+
+#: ../src/menu.c:75
+msgid "/Edit/_Copy"
+msgstr "/Keisti/_Kopijuoti"
+
+#: ../src/menu.c:77
+msgid "/Edit/_Paste"
+msgstr "/Keisti/Įdė_ti"
+
+#: ../src/menu.c:79
+msgid "/Edit/_Delete"
+msgstr "/Keisti/_Pašalinti"
+
+#: ../src/menu.c:83
+msgid "/Edit/Select _All"
+msgstr "/Keisti/Pažymėti _viską"
+
+#: ../src/menu.c:85
+#, fuzzy
+msgid "/_View"
+msgstr "/_Failas"
+
+#: ../src/menu.c:87
+msgid "/View/_Fullscreen"
+msgstr ""
+
+#: ../src/menu.c:89
+msgid "/_Search"
+msgstr "/_Paieška"
+
+#: ../src/menu.c:91
+msgid "/Search/_Find..."
+msgstr "/Paieška/_Ieškoti..."
+
+#: ../src/menu.c:93
+msgid "/Search/Find _Next"
+msgstr "/Paieška/Surask _sekantį"
+
+#: ../src/menu.c:95
+msgid "/Search/Find _Previous"
+msgstr "/Paieška/Surask p_raeitą"
+
+#: ../src/menu.c:97
+msgid "/Search/_Replace..."
+msgstr "/Paieška/P_akeisti..."
+
+#: ../src/menu.c:101
+msgid "/Search/_Jump To..."
+msgstr "/Paieška/_Peršokti į..."
+
+#: ../src/menu.c:103
+msgid "/_Options"
+msgstr "/_Nustatymai"
+
+#: ../src/menu.c:105
+msgid "/Options/_Font..."
+msgstr "/Nustatymai/Š_riftas..."
+
+#: ../src/menu.c:107
+msgid "/Options/_Word Wrap"
+msgstr "/Nustatymai/Teksto _laužymas"
+
+#: ../src/menu.c:109
+msgid "/Options/_Line Numbers"
+msgstr "/Nustatymai/_Eilučių numeracija"
+
+#: ../src/menu.c:113
+msgid "/Options/_Auto Indent"
+msgstr "/Nustatymai/_Automatinis atitraukimas"
+
+#: ../src/menu.c:115
+msgid "/_Help"
+msgstr "/P_agalba"
+
+#: ../src/menu.c:117
+msgid "/Help/_About"
+msgstr "/Pagalba/A_pie"
+
+#: ../src/callback.c:141
+msgid "<b>Statistics</b>"
+msgstr ""
+
+#: ../src/callback.c:363
+msgid "GTK+ based simple text editor"
+msgstr "Paprastas teksto redaktorius paremtas GTK+"
+
+#: ../src/callback.c:368
+msgid "translator-credits"
+msgstr "Lech Jankovski <godgard@gmail.com>"
+
+#: ../src/view.c:62
+#, c-format
+msgid "Save changes to '%s'?"
+msgstr "Išsaugoti pokyčius į '%s'?"
+
+#: ../src/font.c:44
+msgid "Font"
+msgstr "Šriftas"
+
+#: ../src/selector.c:103
+#, c-format
+msgid "Current Locale (%s)"
+msgstr "Esama lokalė (%s)"
+
+#: ../src/selector.c:142
+msgid "Other Codeset"
+msgstr "Kitas kodavimas"
+
+#: ../src/selector.c:182
+msgid "Code_set:"
+msgstr "_Kodavimas:"
+
+#: ../src/selector.c:204
+#, c-format
+msgid "'%s' is not supported"
+msgstr "„%s“ nepalaikomas"
+
+#: ../src/selector.c:265
+msgid "Auto-Detect"
+msgstr "Automatiškai aptikti"
+
+#: ../src/selector.c:317
+msgid "Open"
+msgstr "Atverti"
+
+#: ../src/selector.c:317
+msgid "Save As"
+msgstr "Įrašyti kaip"
+
+#: ../src/selector.c:346
+msgid "C_haracter Coding:"
+msgstr "Si_mbolių kodavimas:"
+
+#: ../src/selector.c:417
+#, c-format
+msgid "'%s' already exists. Overwrite?"
+msgstr "'%s' jau egzistuoja. Perrašyti?"
+
+#: ../src/file.c:62
+msgid "Untitled"
+msgstr "Bevardis"
+
+#: ../src/file.c:231
+#, c-format
+msgid "Can't convert codeset to '%s'"
+msgstr "Nepavyko pakeisti kodavimo į „%s“"
+
+#: ../src/file.c:244
+msgid "Can't open file to write"
+msgstr "Neįmanoma atidaryti failo  rašymui"
+
+#: ../src/file.c:249
+msgid "Can't write file"
+msgstr "Neįmanoma įrašyti failo"
+
+#: ../src/file.c:302
+#, c-format
+msgid ""
+"<u>Totals count</u>\n"
+"Chars: %7d Words: %6d Lines: %5d\n"
+"\n"
+"<u>Selection</u>\n"
+"Chars: %7d Words: %6d Lines: %5d\n"
+msgstr ""
+
+#: ../src/search.c:143
+msgid "Search string not found"
+msgstr "Ieškomas tekstas nerastas"
+
+#: ../src/search.c:196
+msgid "Replace?"
+msgstr "Pakeisti?"
+
+#: ../src/search.c:263
+#, c-format
+msgid "%d strings replaced"
+msgstr "%d tekstų pakeista"
+
+#: ../src/search.c:321
+msgid "Replace"
+msgstr "Pakeisti"
+
+#: ../src/search.c:328
+msgid "Find"
+msgstr "Ieškoti"
+
+#: ../src/search.c:341
+msgid "Fi_nd what:"
+msgstr "_Ieškoti ko:"
+
+#: ../src/search.c:387
+msgid "Re_place with:"
+msgstr "P_akeisti kuo:"
+
+#: ../src/search.c:404
+msgid "Replace _all at once"
+msgstr "Pakeisti _visus vienu metu"
+
+#: ../src/search.c:416
+msgid "_Match case"
+msgstr "_Skirti raidžių dydį"
+
+#: ../src/search.c:474
+msgid "Jump To"
+msgstr "Peršokti į"
+
+#: ../src/search.c:480
+msgid "_Jump"
+msgstr "_Nušokti"
+
+#: ../src/search.c:487
+msgid "_Line number:"
+msgstr "_Eilutės numeris: "
+
+#: ../src/about.c:102
+msgid "Credits"
+msgstr "Padėkos"
+
+#: ../src/about.c:137
+msgid "Written by"
+msgstr "Parašė"
+
+#: ../src/about.c:140
+msgid "Documented by"
+msgstr "Dokumentavo"
+
+#: ../src/about.c:146
+msgid "Translated by"
+msgstr "Išvertė"
+
+#: ../src/about.c:197
+msgid "C_redits"
+msgstr "Pa_dėkos"
+
+#: ../src/about.c:199
+msgid "_Credits"
+msgstr "Pad_ėkos"
+
+#: ../src/about.c:209
+#, c-format
+msgid "About %s"
+msgstr "Apie %s"
+
+#: ../src/gnomeprint.c:261
+msgid "Print"
+msgstr "Spausdinti"
+
+#: ../src/gnomeprint.c:291
+msgid "Print Preview"
+msgstr "Spaudinio peržiūra"
+
+#: ../data/leafpad.desktop.in.h:1
+msgid "Simple text editor"
+msgstr "Paprastas teksto redaktorius"
+
+#, fuzzy
+#~ msgid "Can't write temporary file"
+#~ msgstr "Neįmanoma įrašyti bylos"
+
+#, fuzzy
+#~ msgid "Unicode (UTF-8)"
+#~ msgstr "Universali koduotė"
+
+#~ msgid "Western"
+#~ msgstr "Vakarų"
+
+#~ msgid "Cyrillic"
+#~ msgstr "Kirilica"
+
+#~ msgid "Chinese Simplified"
+#~ msgstr "Supaprastinta kinų"
+
+#~ msgid "Chinese Traditional"
+#~ msgstr "Kinų tradicinė"
+
+#~ msgid "Japanese"
+#~ msgstr "Japonų"
+
+#~ msgid "Korean"
+#~ msgstr "Korėjiečių"
